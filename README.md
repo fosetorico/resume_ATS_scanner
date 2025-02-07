@@ -11,12 +11,12 @@ This project is an AI-driven ATS Resume Scanner designed to evaluate resumes aga
 
 ## Steps to run this Project?
 
-#### Clone the repository
+#### 1. Clone the repository
 ```
 git clone https://github.com/yourusername/ats_resume_scanner.git
 ```
 
-#### Create a conda environment after opening the repository
+#### 2. Create a conda environment after opening the repository
 ```
 conda create -n your-chosen-name python=3.10 -y
 ```
@@ -25,12 +25,13 @@ conda create -n your-chosen-name python=3.10 -y
 conda activate your-chosen-name
 ```
 
-#### Install the requirements
+#### 3. Rename the '.env.example' file to '.env' and insert your Google API key
+
+#### 4. Install the requirements
 ```
 pip install -r requirements.txt
 ```
 
-#### Finally run the Application
+#### 5. Finally run the following command
 ```
 streamlit run app.py
-```
