@@ -13,7 +13,7 @@ This project is an AI-driven ATS Resume Scanner designed to evaluate resumes aga
 
 #### 1. Clone the repository
 ```
-git clone https://github.com/yourusername/ats_resume_scanner.git
+https://github.com/fosetorico/resume_ATS_scanner.git
 ```
 
 #### 2. Create a conda environment after opening the repository
